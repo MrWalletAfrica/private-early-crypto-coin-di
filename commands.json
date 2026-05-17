@@ -1,0 +1,18 @@
+[
+  {
+    "name": "help",
+    "file": "src/commands/help.js"
+  },
+  {
+    "name": "scan",
+    "file": "src/commands/scan.js"
+  },
+  {
+    "name": "start",
+    "file": "src/commands/start.js"
+  },
+  {
+    "name": "status",
+    "file": "src/commands/status.js"
+  }
+]
